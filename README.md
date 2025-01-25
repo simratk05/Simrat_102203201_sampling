@@ -15,7 +15,6 @@ This project performs various sampling techniques and evaluates their performanc
 
 # Results
 
-![image](https://github.com/user-attachments/assets/8f73b2bd-3e06-44dc-9a1c-2dcfce1ba8c1)
+![image](https://github.com/user-attachments/assets/c60f7d97-1625-459e-8044-98130a0182bc)
 
-![image](https://github.com/user-attachments/assets/57d7fd3c-e2c8-4ef2-861f-6ea53ebff984)
 
